@@ -1,0 +1,11 @@
+table, td, th, tr{
+	border:1px solid black;
+	text-align:center;
+	table-layout:fixed;
+	width:100%;
+}
+
+#td-t4{
+	color:white;
+	background-color:black;
+}
